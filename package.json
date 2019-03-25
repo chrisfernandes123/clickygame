@@ -2,6 +2,7 @@
   "name": "clickgame",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chrisfernandes123.github.io/clickygame",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
